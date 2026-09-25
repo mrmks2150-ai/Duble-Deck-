@@ -1,0 +1,6 @@
+{
+  "name": "DoubleDeck Browser",
+  "description": "Split-screen dual deck web browser with simultaneous iframe browsing, independent controls, notes, and multitasking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
